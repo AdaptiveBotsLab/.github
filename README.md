@@ -2,7 +2,7 @@
 
 # **AdaptiveBotsLab**
 
-*Advancing Adaptive Intelligence & Robotics Research*
+*Advancing Intelligence & Robotics Research*
 🔗 [https://ajazbhat.com](https://ajazbhat.com)
 
 ---
