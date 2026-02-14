@@ -100,12 +100,12 @@ Applications are accepted via email (see *Contact* below), and intake occurs twi
 We welcome contributions in the form of:
 
 
-🧠 Research Code – Novel models, experiments, benchmarks
-📊 Datasets – Curated datasets with documentation and licensing
-🧪 Reproducibility Packages – Scripts, configs, pretrained weights
-📚 Documentation – Tutorials, walkthroughs, clarifications
-🐞 Bug Fixes & Improvements – Code optimization and refactoring
-🎓 Educational Resources – Teaching materials, demos, notebooks
+* 🧠 Research Code – Novel models, experiments, benchmarks
+* 📊 Datasets – Curated datasets with documentation and licensing
+* 🧪 Reproducibility Packages – Scripts, configs, pretrained weights
+* 📚 Documentation – Tutorials, walkthroughs, clarifications
+* 🐞 Bug Fixes & Improvements – Code optimization and refactoring
+* 🎓 Educational Resources – Teaching materials, demos, notebooks
 
 Before contributing, please reach out via email.
 
@@ -118,7 +118,7 @@ Before contributing, please reach out via email.
 Universiti Brunei Darussalam
 Room 2.48, 2nd Floor, APB Building
 Jalan Tungku Link, BE1410
-Brunei Darussalam ([ajazbhat.com][1])
+Brunei Darussalam
 
 📧 For inquiries, openings, and collaborations → Email via the contact link on the website.
 🔗 Visit our site: [https://ajazbhat.com](https://ajazbhat.com)
